@@ -1,0 +1,31 @@
+{
+  "name": "react-native-fix-magnification",
+  "version": "1.0.0",
+  "description": "A library to help you fix image magnification filter",
+  "main": "index.js",
+  "bin": "./bin/fixim.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristea2017/react-native-fix-magnification.git"
+  },
+  "keywords": [
+    "react-native",
+    "ios14",
+    "image",
+    "magnification",
+    "filter",
+    "kCAFilterNearest"
+  ],
+  "author": "Victor Cristea",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cristea2017/react-native-fix-magnification.git"
+  },
+  "homepage": "https://github.com/cristea2017/react-native-fix-magnification.git#readme",
+  "peerDependencies": {
+    "react-native": "<0.63.2"
+  }
+}
