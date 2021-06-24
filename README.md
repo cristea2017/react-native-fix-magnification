@@ -1,6 +1,11 @@
 
 ## A library to help you fix images magnification.(show image pixelated)
 
+## Easy example:
+<img src="media/r.png" width="500"  title="Result">
+</br>
+
+
 ## Usage
 **You don't need to install this package in order to fix images.**
 Add a postinstall script in your package.json and every time you will install dependencies the script will run fixing the problem.

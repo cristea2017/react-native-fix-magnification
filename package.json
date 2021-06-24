@@ -1,6 +1,6 @@
 {
   "name": "react-native-fix-magnification",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A library to help you fix image magnification filter",
   "main": "index.js",
   "bin": "./bin/fixim.sh",
